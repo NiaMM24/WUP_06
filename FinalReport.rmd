@@ -63,8 +63,13 @@ The opinions in this branch seem to align with the opinions in the data given in
 ### Numerical Descriptive Results
 
 <!--Numerical results go here. Use the numerical results to describe the patterns if any that exist in the data as focused toward the research question!-->
+```{r}
+table2 <- xtabs(~cappun + race, data=mydata)
+rowPerc(table2)
+colPerc(table2)
+```
 
-
+Again we see that our results are very similar to the master branch even though it is a significally smaller sample.
 
 
 
