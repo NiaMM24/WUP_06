@@ -98,3 +98,5 @@ In the fisherXY test, we can see that the p-values are all different and extreme
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
+In this branch, all the groups were statistically different. In our branch number 2, the only groups that were statistically different from each other were the white an the black people. Besides, the other groups were quite similar.
